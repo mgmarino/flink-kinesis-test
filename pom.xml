@@ -1,0 +1,19 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.tado.flink</groupId>
+  <artifactId>test-app</artifactId>
+  <version>1</version>
+  <dependencies>
+  <dependency>
+    <groupId>org.apache.flink</groupId>
+    <artifactId>flink-connector-kinesis</artifactId>
+    <version>4.1.0-1.16</version>
+  </dependency>
+  <dependency>
+        <groupId>commons-logging</groupId>
+        <artifactId>commons-logging</artifactId>
+        <version>1.2</version>
+  </dependency>
+  </dependencies>
+</project>
+
